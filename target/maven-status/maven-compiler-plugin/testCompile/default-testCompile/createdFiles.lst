@@ -1,0 +1,9 @@
+com\PracticeProject\testCases\BaseClass.class
+com\PracticeProject\testCases\TC_loginTest_001.class
+com\PracticeProject\testCases\TC_AddCustomerTest_003.class
+com\PracticeProject\utilities\XLUtils.class
+com\PracticeProject\pageObjects\LoginPage.class
+com\PracticeProject\utilities\ReadConfig.class
+com\PracticeProject\utilities\ReportingListener.class
+com\PracticeProject\pageObjects\AddCustomerPage.class
+com\PracticeProject\testCases\TC_LoginDataDrivenTest_002.class

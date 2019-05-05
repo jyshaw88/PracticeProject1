@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- this xml file use for multiple browser chrome/firefox/ie -->
+<!-- value="firefox"/chrome/ie -->
+
+<suite name="PracticeProject1">
+	<listeners>
+	<listener class-name="com.PracticeProject.utilities.ReportingListener"/>
+	</listeners>
+
+ 	<test name="functional test">
+ 		<parameter name="browser" value="chrome"/>
+ 		<classes>
+ 		<class name="com.PracticeProject.testCases.TC_loginTest_001" /> 
+ 		<!--  <class name="com.PracticeProject.testCases.TC_LoginDataDrivenTest_002" />-->
+ 		<class name="com.PracticeProject.testCases.TC_AddCustomerTest_003" />
+ 		</classes>
+ 	</test>
+</suite>

@@ -1,0 +1,314 @@
+2019-02-18 19:56:16,677 [main] INFO BaseClass - URL is opened 
+2019-02-18 19:56:41,028 [main] INFO BaseClass - entered username
+2019-02-18 19:56:41,366 [main] INFO BaseClass - entered Passowrd
+2019-02-18 19:56:47,375 [main] INFO BaseClass - login test passed
+2019-02-22 19:38:40,185 [main] INFO BaseClass - URL is opened 
+2019-02-22 19:39:23,014 [main] INFO BaseClass - entered username
+2019-02-22 19:39:23,380 [main] INFO BaseClass - entered Passowrd
+2019-02-22 19:39:30,990 [main] INFO BaseClass - login test passed
+2019-02-22 20:29:05,796 [main] INFO BaseClass - URL is opened 
+2019-02-22 20:29:39,862 [main] INFO BaseClass - entered username
+2019-02-22 20:29:40,222 [main] INFO BaseClass - entered Passowrd
+2019-02-22 20:29:50,030 [main] INFO BaseClass - login test passed
+2019-02-24 19:19:59,373 [main] INFO BaseClass - URL is opened 
+2019-02-24 19:20:02,384 [main] INFO BaseClass - entered username
+2019-02-24 19:20:02,633 [main] INFO BaseClass - entered Passowrd
+2019-02-24 19:20:05,275 [main] INFO BaseClass - login test passed
+2019-02-24 19:26:06,179 [main] INFO BaseClass - URL is opened 
+2019-02-24 19:26:06,595 [main] INFO BaseClass - entered username
+2019-02-24 19:26:06,752 [main] INFO BaseClass - entered Passowrd
+2019-02-24 19:26:09,477 [main] INFO BaseClass - login test passed
+2019-02-24 21:57:09,776 [main] INFO BaseClass - URL is opened 
+2019-02-24 21:58:24,253 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:01:01,336 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:04:58,378 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:12:46,178 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:13:44,460 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:15:30,832 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:22:03,793 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:22:04,784 [main] INFO BaseClass - entered username
+2019-02-24 22:22:05,438 [main] INFO BaseClass - entered Passowrd
+2019-02-24 22:22:08,457 [main] INFO BaseClass - login test passed
+2019-02-24 22:23:39,762 [main] INFO BaseClass - URL is opened 
+2019-02-24 22:23:53,503 [main] INFO BaseClass - entered username
+2019-02-24 22:23:53,885 [main] INFO BaseClass - entered Passowrd
+2019-02-24 22:23:59,514 [main] INFO BaseClass - login test passed
+2019-03-12 21:17:55,365 [main] INFO BaseClass - URL is opened 
+2019-03-12 21:18:25,024 [main] INFO BaseClass - entered username
+2019-03-12 21:18:25,314 [main] INFO BaseClass - entered Passowrd
+2019-03-13 19:22:06,388 [main] INFO BaseClass - URL is opened 
+2019-03-13 19:22:06,848 [main] INFO BaseClass - entered username
+2019-03-13 19:22:07,149 [main] INFO BaseClass - entered Passowrd
+2019-03-13 19:22:12,032 [main] INFO BaseClass - login test passed
+2019-03-13 19:29:20,503 [main] INFO BaseClass - URL is opened 
+2019-03-13 19:29:21,998 [main] INFO BaseClass - entered username
+2019-03-13 19:29:22,230 [main] INFO BaseClass - entered Passowrd
+2019-03-13 19:29:28,656 [main] INFO BaseClass - login test passed
+2019-03-13 20:17:48,093 [main] INFO BaseClass - URL is opened 
+2019-03-13 20:18:14,039 [main] INFO BaseClass - entered username
+2019-03-13 20:18:14,311 [main] INFO BaseClass - entered Passowrd
+2019-03-13 20:18:21,403 [main] INFO BaseClass - login test passed
+2019-03-16 22:21:07,019 [main] INFO BaseClass - URL is opened 
+2019-03-16 22:21:28,256 [main] INFO BaseClass - entered username
+2019-03-16 22:21:28,529 [main] INFO BaseClass - entered Passowrd
+2019-03-16 22:21:32,797 [main] INFO BaseClass - login test passed
+2019-03-17 17:51:23,876 [main] INFO BaseClass - URL is opened 
+2019-03-17 17:52:06,090 [main] INFO BaseClass - entered username
+2019-03-17 17:52:06,437 [main] INFO BaseClass - entered Passowrd
+2019-03-17 18:00:38,766 [main] INFO BaseClass - URL is opened 
+2019-03-17 18:00:42,692 [main] INFO BaseClass - entered username
+2019-03-17 18:00:43,037 [main] INFO BaseClass - entered Passowrd
+2019-03-27 19:11:10,705 [main] INFO BaseClass - username provided
+2019-03-27 19:11:11,075 [main] INFO BaseClass - pwd provided
+2019-03-27 19:11:14,269 [main] INFO BaseClass - login passed
+2019-03-27 19:11:25,119 [main] INFO BaseClass - username provided
+2019-03-27 19:11:25,304 [main] INFO BaseClass - pwd provided
+2019-03-27 19:11:28,373 [main] INFO BaseClass - login passed
+2019-03-27 19:11:38,711 [main] INFO BaseClass - username provided
+2019-03-27 19:11:38,940 [main] INFO BaseClass - pwd provided
+2019-03-27 19:11:42,006 [main] INFO BaseClass - login passed
+2019-03-27 19:11:52,283 [main] INFO BaseClass - username provided
+2019-03-27 19:11:52,555 [main] INFO BaseClass - pwd provided
+2019-03-27 19:11:55,600 [main] INFO BaseClass - login passed
+2019-03-27 19:12:05,858 [main] INFO BaseClass - username provided
+2019-03-27 19:12:06,094 [main] INFO BaseClass - pwd provided
+2019-03-27 19:12:09,137 [main] INFO BaseClass - login passed
+2019-03-27 19:16:23,749 [main] INFO BaseClass - username provided
+2019-03-27 19:16:23,936 [main] INFO BaseClass - pwd provided
+2019-03-27 19:16:24,010 [main] INFO BaseClass - login passed
+2019-03-27 19:16:24,210 [main] INFO BaseClass - username provided
+2019-03-27 19:16:24,305 [main] INFO BaseClass - pwd provided
+2019-03-27 19:16:24,336 [main] INFO BaseClass - login passed
+2019-03-27 19:16:24,555 [main] INFO BaseClass - username provided
+2019-03-27 19:16:24,707 [main] INFO BaseClass - pwd provided
+2019-03-27 19:16:24,738 [main] INFO BaseClass - login passed
+2019-03-27 19:16:24,907 [main] INFO BaseClass - username provided
+2019-03-27 19:16:25,065 [main] INFO BaseClass - pwd provided
+2019-03-27 19:16:25,095 [main] INFO BaseClass - login passed
+2019-03-27 19:16:25,254 [main] INFO BaseClass - username provided
+2019-03-27 19:16:25,340 [main] INFO BaseClass - pwd provided
+2019-03-27 19:16:25,369 [main] INFO BaseClass - login passed
+2019-03-27 19:18:13,644 [main] INFO BaseClass - username provided
+2019-03-27 19:18:13,917 [main] INFO BaseClass - pwd provided
+2019-03-27 19:18:19,573 [main] INFO BaseClass - login passed
+2019-03-27 19:19:33,877 [main] INFO BaseClass - username provided
+2019-03-27 19:19:34,047 [main] INFO BaseClass - pwd provided
+2019-03-27 19:19:39,516 [main] INFO BaseClass - login passed
+2019-03-27 19:19:46,050 [main] INFO BaseClass - username provided
+2019-03-27 19:19:46,354 [main] INFO BaseClass - pwd provided
+2019-03-27 19:19:51,626 [main] INFO BaseClass - username provided
+2019-03-27 19:19:51,840 [main] INFO BaseClass - pwd provided
+2019-03-27 19:19:56,932 [main] INFO BaseClass - username provided
+2019-03-27 19:19:57,181 [main] INFO BaseClass - pwd provided
+2019-03-27 19:20:06,515 [main] INFO BaseClass - login passed
+2019-03-27 19:20:12,733 [main] INFO BaseClass - username provided
+2019-03-27 19:20:12,920 [main] INFO BaseClass - pwd provided
+2019-03-27 19:21:19,388 [main] INFO BaseClass - username provided
+2019-03-27 19:21:19,565 [main] INFO BaseClass - pwd provided
+2019-03-27 19:21:28,228 [main] INFO BaseClass - login passed
+2019-03-27 19:21:37,400 [main] INFO BaseClass - username provided
+2019-03-27 19:21:37,614 [main] INFO BaseClass - pwd provided
+2019-03-27 19:21:43,986 [main] INFO BaseClass - username provided
+2019-03-27 19:21:44,218 [main] INFO BaseClass - pwd provided
+2019-03-27 19:21:51,105 [main] INFO BaseClass - username provided
+2019-03-27 19:21:51,333 [main] INFO BaseClass - pwd provided
+2019-03-27 19:21:59,413 [main] INFO BaseClass - login passed
+2019-03-27 19:22:08,194 [main] INFO BaseClass - username provided
+2019-03-27 19:22:08,417 [main] INFO BaseClass - pwd provided
+2019-04-02 19:52:26,206 [main] INFO BaseClass - username is provided
+2019-04-02 19:52:26,664 [main] INFO BaseClass - pwd is provided
+2019-04-02 19:52:38,367 [main] INFO BaseClass - providing customer details..
+2019-04-02 19:52:47,496 [main] INFO BaseClass - validation started..
+2019-04-02 20:04:59,572 [main] INFO BaseClass - username is provided
+2019-04-02 20:04:59,823 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:05:10,726 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:05:20,025 [main] INFO BaseClass - validation started..
+2019-04-02 20:06:53,733 [main] INFO BaseClass - username is provided
+2019-04-02 20:06:53,971 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:07:03,635 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:07:12,994 [main] INFO BaseClass - validation started..
+2019-04-02 20:08:52,343 [main] INFO BaseClass - username is provided
+2019-04-02 20:08:52,567 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:09:01,321 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:09:10,481 [main] INFO BaseClass - validation started..
+2019-04-02 20:13:11,075 [main] INFO BaseClass - username is provided
+2019-04-02 20:13:11,368 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:13:19,841 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:13:29,491 [main] INFO BaseClass - validation started..
+2019-04-02 20:16:50,033 [main] INFO BaseClass - username is provided
+2019-04-02 20:16:50,347 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:16:58,562 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:17:10,333 [main] INFO BaseClass - validation started..
+2019-04-02 20:18:26,964 [main] INFO BaseClass - username is provided
+2019-04-02 20:18:27,274 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:18:35,223 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:18:47,327 [main] INFO BaseClass - validation started..
+2019-04-02 20:19:34,181 [main] INFO BaseClass - username is provided
+2019-04-02 20:19:34,437 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:19:42,629 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:19:59,484 [main] INFO BaseClass - validation started..
+2019-04-02 20:19:59,524 [main] INFO BaseClass - test case passed..
+2019-04-02 20:34:14,616 [main] INFO BaseClass - URL is opened 
+2019-04-02 20:34:16,911 [main] INFO BaseClass - entered username
+2019-04-02 20:34:17,231 [main] INFO BaseClass - entered Passowrd
+2019-04-02 20:34:47,816 [main] INFO BaseClass - username provided
+2019-04-02 20:34:48,083 [main] INFO BaseClass - pwd provided
+2019-04-02 20:34:56,120 [main] INFO BaseClass - login passed
+2019-04-02 20:35:04,267 [main] INFO BaseClass - username provided
+2019-04-02 20:35:04,481 [main] INFO BaseClass - pwd provided
+2019-04-02 20:35:12,152 [main] INFO BaseClass - username provided
+2019-04-02 20:35:12,421 [main] INFO BaseClass - pwd provided
+2019-04-02 20:35:20,374 [main] INFO BaseClass - username provided
+2019-04-02 20:35:20,664 [main] INFO BaseClass - pwd provided
+2019-04-02 20:35:28,744 [main] INFO BaseClass - login passed
+2019-04-02 20:35:39,464 [main] INFO BaseClass - username provided
+2019-04-02 20:35:39,699 [main] INFO BaseClass - pwd provided
+2019-04-02 20:35:57,857 [main] INFO BaseClass - username is provided
+2019-04-02 20:35:58,144 [main] INFO BaseClass - pwd is provided
+2019-04-02 20:36:08,102 [main] INFO BaseClass - providing customer details..
+2019-04-02 20:36:23,302 [main] INFO BaseClass - validation started..
+2019-04-02 20:36:23,331 [main] INFO BaseClass - test case passed..
+2019-04-02 20:45:06,011 [main] INFO BaseClass - URL is opened 
+2019-04-02 20:45:07,356 [main] INFO BaseClass - entered username
+2019-04-02 20:45:07,542 [main] INFO BaseClass - entered Passowrd
+2019-04-02 20:45:11,718 [main] INFO BaseClass - login test passed
+2019-04-02 20:45:23,360 [main] INFO BaseClass - username provided
+2019-04-02 20:45:23,513 [main] INFO BaseClass - pwd provided
+2019-04-02 20:45:35,610 [main] INFO BaseClass - username provided
+2019-04-02 20:45:35,916 [main] INFO BaseClass - pwd provided
+2019-04-02 20:45:44,429 [main] INFO BaseClass - username provided
+2019-04-02 20:45:44,786 [main] INFO BaseClass - pwd provided
+2019-04-02 20:45:52,167 [main] INFO BaseClass - login passed
+2019-04-02 20:46:15,488 [main] INFO BaseClass - username provided
+2019-04-02 20:46:15,743 [main] INFO BaseClass - pwd provided
+2019-04-04 23:58:44,376 [main] INFO BaseClass - URL is opened 
+2019-04-04 23:59:02,245 [main] INFO BaseClass - entered username
+2019-04-04 23:59:02,559 [main] INFO BaseClass - entered Passowrd
+2019-04-04 23:59:17,442 [main] INFO BaseClass - username is provided
+2019-04-04 23:59:17,714 [main] INFO BaseClass - pwd is provided
+2019-04-05 00:04:00,031 [main] INFO BaseClass - URL is opened 
+2019-04-05 00:04:00,811 [main] INFO BaseClass - entered username
+2019-04-05 00:04:01,181 [main] INFO BaseClass - entered Passowrd
+2019-04-05 00:04:15,134 [main] INFO BaseClass - username is provided
+2019-04-05 00:04:15,423 [main] INFO BaseClass - pwd is provided
+2019-04-05 00:06:48,326 [main] INFO BaseClass - URL is opened 
+2019-04-05 00:06:50,704 [main] INFO BaseClass - entered username
+2019-04-05 00:06:51,011 [main] INFO BaseClass - entered Passowrd
+2019-04-05 00:06:55,551 [main] INFO BaseClass - login test passed
+2019-04-05 00:07:04,851 [main] INFO BaseClass - username is provided
+2019-04-05 00:07:05,078 [main] INFO BaseClass - pwd is provided
+2019-04-05 00:07:13,310 [main] INFO BaseClass - providing customer details..
+2019-04-05 00:07:26,426 [main] INFO BaseClass - validation started..
+2019-04-05 00:13:37,760 [main] INFO BaseClass - URL is opened 
+2019-04-05 00:13:38,167 [main] INFO BaseClass - entered username
+2019-04-05 00:13:38,350 [main] INFO BaseClass - entered Passowrd
+2019-04-05 00:13:43,234 [main] INFO BaseClass - login test passed
+2019-04-05 00:13:53,616 [main] INFO BaseClass - username is provided
+2019-04-05 00:13:53,854 [main] INFO BaseClass - pwd is provided
+2019-04-05 00:14:18,927 [main] INFO BaseClass - providing customer details..
+2019-04-05 00:14:35,404 [main] INFO BaseClass - validation started..
+2019-04-05 00:14:35,441 [main] INFO BaseClass - test case passed..
+2019-04-07 00:13:59,259 [main] INFO BaseClass - URL is opened 
+2019-04-07 00:14:08,861 [main] INFO BaseClass - entered username
+2019-04-07 00:14:09,181 [main] INFO BaseClass - entered Passowrd
+2019-04-07 00:14:12,083 [main] INFO BaseClass - login test passed
+2019-04-07 00:14:24,730 [main] INFO BaseClass - username is provided
+2019-04-07 00:14:25,133 [main] INFO BaseClass - pwd is provided
+2019-04-07 00:14:32,808 [main] INFO BaseClass - providing customer details..
+2019-04-07 00:14:47,511 [main] INFO BaseClass - validation started..
+2019-04-07 00:14:47,552 [main] INFO BaseClass - test case passed..
+2019-04-07 00:48:32,622 [main] INFO BaseClass - URL is opened 
+2019-04-07 00:48:34,257 [main] INFO BaseClass - entered username
+2019-04-07 00:48:34,441 [main] INFO BaseClass - entered Passowrd
+2019-04-07 00:48:36,472 [main] INFO BaseClass - login test passed
+2019-04-07 00:48:48,413 [main] INFO BaseClass - username is provided
+2019-04-07 00:48:48,690 [main] INFO BaseClass - pwd is provided
+2019-04-07 00:48:57,467 [main] INFO BaseClass - providing customer details..
+2019-04-07 00:49:12,198 [main] INFO BaseClass - validation started..
+2019-04-07 00:49:12,245 [main] INFO BaseClass - test case passed..
+2019-04-07 00:52:50,721 [main] INFO BaseClass - URL is opened 
+2019-04-07 00:52:52,668 [main] INFO BaseClass - entered username
+2019-04-07 00:52:52,904 [main] INFO BaseClass - entered Passowrd
+2019-04-07 00:52:55,991 [main] INFO BaseClass - login test passed
+2019-04-07 00:53:06,553 [main] INFO BaseClass - username is provided
+2019-04-07 00:53:06,954 [main] INFO BaseClass - pwd is provided
+2019-04-07 00:53:14,837 [main] INFO BaseClass - providing customer details..
+2019-04-07 00:53:30,313 [main] INFO BaseClass - validation started..
+2019-04-07 00:53:30,361 [main] INFO BaseClass - test case passed..
+2019-04-08 20:10:22,711 [main] INFO BaseClass - URL is opened 
+2019-04-08 20:10:32,788 [main] INFO BaseClass - entered username
+2019-04-08 20:10:33,043 [main] INFO BaseClass - entered Passowrd
+2019-04-08 20:10:44,114 [main] INFO BaseClass - login test passed
+2019-04-08 20:10:55,270 [main] INFO BaseClass - username is provided
+2019-04-08 20:10:55,456 [main] INFO BaseClass - pwd is provided
+2019-04-08 20:11:07,837 [main] INFO BaseClass - providing customer details..
+2019-04-08 20:11:38,295 [main] INFO BaseClass - validation started..
+2019-04-08 20:11:38,344 [main] INFO BaseClass - test case passed..
+2019-04-10 20:19:27,964 [main] INFO BaseClass - URL is opened 
+2019-04-10 20:19:36,556 [main] INFO BaseClass - entered username
+2019-04-10 20:19:36,872 [main] INFO BaseClass - entered Passowrd
+2019-04-10 20:19:43,142 [main] INFO BaseClass - login test passed
+2019-04-10 20:19:58,762 [main] INFO BaseClass - username is provided
+2019-04-10 20:19:58,918 [main] INFO BaseClass - pwd is provided
+2019-04-10 20:20:06,640 [main] INFO BaseClass - providing customer details..
+2019-04-10 20:20:21,920 [main] INFO BaseClass - validation started..
+2019-04-10 20:20:21,962 [main] INFO BaseClass - test case passed..
+2019-04-10 20:33:15,848 [main] INFO BaseClass - URL is opened 
+2019-04-10 20:33:19,463 [main] INFO BaseClass - entered username
+2019-04-10 20:33:19,785 [main] INFO BaseClass - entered Passowrd
+2019-04-10 20:33:25,760 [main] INFO BaseClass - login test passed
+2019-04-10 20:33:41,768 [main] INFO BaseClass - username is provided
+2019-04-10 20:33:41,933 [main] INFO BaseClass - pwd is provided
+2019-04-10 20:33:50,342 [main] INFO BaseClass - providing customer details..
+2019-04-10 20:34:07,823 [main] INFO BaseClass - validation started..
+2019-04-10 20:34:07,867 [main] INFO BaseClass - test case passed..
+2019-04-10 22:34:31,951 [main] INFO BaseClass - URL is opened 
+2019-04-10 22:34:33,390 [main] INFO BaseClass - entered username
+2019-04-10 22:34:33,603 [main] INFO BaseClass - entered Passowrd
+2019-04-10 22:34:39,581 [main] INFO BaseClass - login test passed
+2019-04-10 22:34:55,633 [main] INFO BaseClass - username is provided
+2019-04-10 22:34:55,955 [main] INFO BaseClass - pwd is provided
+2019-04-10 22:35:03,095 [main] INFO BaseClass - providing customer details..
+2019-04-10 22:35:17,822 [main] INFO BaseClass - validation started..
+2019-04-10 22:35:17,854 [main] INFO BaseClass - test case passed..
+2019-04-11 20:52:54,220 [main] INFO BaseClass - URL is opened 
+2019-04-11 20:53:08,409 [main] INFO BaseClass - entered username
+2019-04-11 20:53:08,753 [main] INFO BaseClass - entered Passowrd
+2019-04-11 20:53:14,865 [main] INFO BaseClass - login test passed
+2019-04-11 20:53:26,208 [main] INFO BaseClass - username is provided
+2019-04-11 20:53:26,548 [main] INFO BaseClass - pwd is provided
+2019-04-11 20:53:34,758 [main] INFO BaseClass - providing customer details..
+2019-04-11 20:53:49,585 [main] INFO BaseClass - validation started..
+2019-04-11 20:53:49,616 [main] INFO BaseClass - test case passed..
+2019-04-11 22:05:58,565 [pool-1-thread-5 for channel id=7] INFO BaseClass - URL is opened 
+2019-04-11 22:06:08,028 [pool-1-thread-5 for channel id=7] INFO BaseClass - entered username
+2019-04-11 22:06:08,224 [pool-1-thread-5 for channel id=7] INFO BaseClass - entered Passowrd
+2019-04-11 22:06:13,625 [pool-1-thread-5 for channel id=7] INFO BaseClass - login test passed
+2019-04-11 22:06:26,665 [pool-1-thread-5 for channel id=7] INFO BaseClass - username is provided
+2019-04-11 22:06:26,910 [pool-1-thread-5 for channel id=7] INFO BaseClass - pwd is provided
+2019-04-11 22:06:36,842 [pool-1-thread-5 for channel id=7] INFO BaseClass - providing customer details..
+2019-04-11 22:06:51,710 [pool-1-thread-5 for channel id=7] INFO BaseClass - validation started..
+2019-04-11 22:06:51,741 [pool-1-thread-5 for channel id=7] INFO BaseClass - test case passed..
+2019-04-11 22:09:51,783 [main] INFO BaseClass - URL is opened 
+2019-04-11 22:09:54,369 [main] INFO BaseClass - entered username
+2019-04-11 22:09:54,562 [main] INFO BaseClass - entered Passowrd
+2019-04-11 22:10:00,268 [main] INFO BaseClass - login test passed
+2019-04-11 22:10:12,511 [main] INFO BaseClass - username is provided
+2019-04-11 22:10:12,783 [main] INFO BaseClass - pwd is provided
+2019-04-11 22:10:27,946 [main] INFO BaseClass - providing customer details..
+2019-04-11 22:10:48,293 [main] INFO BaseClass - validation started..
+2019-04-11 22:10:48,314 [main] INFO BaseClass - test case passed..
+2019-05-05 15:59:52,534 [main] INFO BaseClass - URL is opened 
+2019-05-05 16:00:16,851 [main] INFO BaseClass - entered username
+2019-05-05 16:00:17,175 [main] INFO BaseClass - entered Passowrd
+2019-05-05 16:00:33,905 [main] INFO BaseClass - username is provided
+2019-05-05 16:00:34,066 [main] INFO BaseClass - pwd is provided
+2019-05-05 16:05:07,139 [main] INFO BaseClass - URL is opened 
+2019-05-05 16:05:07,554 [main] INFO BaseClass - entered username
+2019-05-05 16:05:07,831 [main] INFO BaseClass - entered Passowrd
+2019-05-05 16:05:15,309 [main] INFO BaseClass - login test passed
+2019-05-05 16:05:27,906 [main] INFO BaseClass - username is provided
+2019-05-05 16:05:28,109 [main] INFO BaseClass - pwd is provided
+2019-05-05 16:05:38,923 [main] INFO BaseClass - providing customer details..
+2019-05-05 16:05:54,043 [main] INFO BaseClass - validation started..
+2019-05-05 16:05:54,075 [main] INFO BaseClass - test case passed..

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PracticeProject1" duration-ms="62753" started-at="2019-05-05T10:34:51Z" finished-at="2019-05-05T10:35:54Z">
+    <groups>
+    </groups>
+    <test name="functional test" duration-ms="62753" started-at="2019-05-05T10:34:51Z" finished-at="2019-05-05T10:35:54Z">
+      <class name="com.PracticeProject.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.PracticeProject.testCases.TC_AddCustomerTest_003@464bee09]" name="setup" is-config="true" duration-ms="8574" started-at="2019-05-05T10:35:17Z" finished-at="2019-05-05T10:35:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.PracticeProject.testCases.TC_AddCustomerTest_003@464bee09]" name="addNewCustomer" duration-ms="27967" started-at="2019-05-05T10:35:26Z" finished-at="2019-05-05T10:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.PracticeProject.testCases.TC_AddCustomerTest_003@464bee09]" name="tearDown" is-config="true" duration-ms="556" started-at="2019-05-05T10:35:54Z" finished-at="2019-05-05T10:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.PracticeProject.testCases.TC_AddCustomerTest_003 -->
+      <class name="com.PracticeProject.testCases.TC_loginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.PracticeProject.testCases.TC_loginTest_001@6eebc39e]" name="setup" is-config="true" duration-ms="14474" started-at="2019-05-05T10:34:52Z" finished-at="2019-05-05T10:35:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.PracticeProject.testCases.TC_loginTest_001@6eebc39e]" name="loginTest" duration-ms="8197" started-at="2019-05-05T10:35:07Z" finished-at="2019-05-05T10:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.PracticeProject.testCases.TC_loginTest_001@6eebc39e]" name="tearDown" is-config="true" duration-ms="2096" started-at="2019-05-05T10:35:15Z" finished-at="2019-05-05T10:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.PracticeProject.testCases.TC_loginTest_001 -->
+    </test> <!-- functional test -->
+  </suite> <!-- PracticeProject1 -->
+</testng-results>

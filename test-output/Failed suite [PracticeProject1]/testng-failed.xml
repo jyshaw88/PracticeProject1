@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [PracticeProject1]]">
+  <listeners>
+    <listener class-name="com.PracticeProject.utilities.ReportingListener"/>
+  </listeners>
+  <test thread-count="5" name="functional test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.PracticeProject.testCases.TC_LoginDataDrivenTest_002">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="LoginDataDrivenTest" invocation-numbers="1 2 4"/>
+        </methods>
+      </class> <!-- com.PracticeProject.testCases.TC_LoginDataDrivenTest_002 -->
+    </classes>
+  </test> <!-- functional test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [PracticeProject1]] -->
